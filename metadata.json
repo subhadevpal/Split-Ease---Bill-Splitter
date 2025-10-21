@@ -1,0 +1,5 @@
+{
+  "name": "SplitEase - Bill Splitter",
+  "description": "An intelligent bill splitting application that allows users to add expenses, split them among friends, and track balances. Features OCR for easy bill uploading via Gemini.",
+  "requestFramePermissions": []
+}
